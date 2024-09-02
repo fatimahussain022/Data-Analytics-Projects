@@ -27,5 +27,8 @@ This project involves an in-depth examination of cerebral stroke data, focusing 
 
 - **Predictive Modeling**: The project employs predictive modeling techniques to forecast stroke outcomes based on identified risk factors, aiding in early diagnosis and intervention.
 
+## Deployment
+To access and deploy the Jupyter Notebook and ML model, visit [this](https://github.com/AyeshaNaime003/CerebralStroke_DataAnalysis_ML_Django/tree/main) repository for more details.
+
 ## Conclusion
 The Cerebral Stroke Analysis project offers a thorough examination of stroke risk factors and outcomes, providing valuable insights for both patients and medical professionals. By understanding the impact of various demographic and lifestyle/medical factors, the project supports the development of targeted preventive strategies and contributes to ongoing stroke research.
